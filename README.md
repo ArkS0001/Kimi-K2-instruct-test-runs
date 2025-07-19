@@ -10,3 +10,28 @@ Here’s a snapshot of what makes Kimi K2 a potential game-changer:
 - Elite Performance at a Low Price: Kimi K2 matches or surpasses the performance of leading models like GPT-4.1 and Claude 4 Sonnet on various benchmarks, particularly in tool use and agentic tasks. 
 
 ![1752645506691](https://github.com/user-attachments/assets/74526e83-8fa9-4193-b58f-831ab1fbfb52)
+
+
+Architecture: Mixture‑of‑Experts (MoE) with 1 trillion total parameters, but only 32 billion active per forward pass, striking a balance between performance and efficiency
+arXiv+9Hugging Face+9Off The Grid XP+9
+.
+
+Optimizer: Introduces MuonClip, a query‑key rescaling mechanism to stabilize training at massive scale
+Reddit+4Medium+4VentureBeat+4
+.
+
+Instruction-Tuned (“Instruct” variant): Tailored for chat, coding, autonomous tool use, and multi-step reasoning
+OpenRouter+4Hugging Face+4VentureBeat+4
+.
+
+Benchmarks:
+
+    SWE‑bench Verified: ~65.8 % pass@1
+    OpenRouter+2Hugging Face+2VentureBeat+2
+
+    LiveCodeBench: 53.7 % vs GPT‑4.1’s 44.7 %
+    OpenRouter+2Hugging Face+2VentureBeat+2
+
+    Outperforms other open models and rivals proprietary ones in coding, math, and agentic tasks
+    Moonshot AI+8VentureBeat+8Medium+8
+    .
