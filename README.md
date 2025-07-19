@@ -1,3 +1,23 @@
+Strengths:
+
+    Ideal for agentic DevOps: fully automated CI/test pipelines.
+
+    Great at code generation + iteration.
+
+    Handles long-context workflows (up to 128 K tokens)
+    Medium
+    Reddit+6OpenRouter+6Medium+6
+    YouTube
+    .
+
+Limitations:
+
+    Outputs can exceed token limits and get truncated — manage via prompt instructions.
+
+    Tool naming conflicts can confuse tool selection — namespace tools uniquely.
+
+    Still demands significant hardware — 48 GB+ GPU or CPU VRAM recommended 
+
 # Kimi-K2-instruct-test-runs
 
 🔮 Kimi K2: 
